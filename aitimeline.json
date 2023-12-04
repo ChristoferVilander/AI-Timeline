@@ -1,0 +1,38 @@
+{
+  "events": [
+    {
+      "media": {
+        "url": "https://picsum.photos/id/668/200/300",
+        "caption": "",
+        "credit": "<a href='https://picsum.photos/'>PicSum Photos</a>"
+      },
+      "start_date": {
+        "month": "2",
+        "day": "10",
+        "year": "1996"
+      },
+      "text": {
+        "headline": "The first computer to win a chess game against a world champion",
+        "text": "<p>The first match between Garry Kasparov and Deep Blue took place in February 1996. Deep Blue won the first game, but Kasparov won the overall match.</p>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "2011"
+      },
+      "text": {
+        "headline": "Jeopardy! Victory",
+        "text": "IBM's Watson competed on Jeopardy! and won against two of the show's greatest champions"
+      }
+    },
+    {
+      "start_date": {
+        "year": "2020"
+      },
+      "text": {
+        "headline": "GPT-3 is introduced by OpenAI in June 2020",
+        "text": "GPT-3 is one of the largest language models ever created, with 175 billion parameters"
+      }
+    }
+  ]
+}
