@@ -1,5 +1,7 @@
 # AI-Timeline
 
+[Visit Timeline](https://christofervilander.github.io/AI-Timeline/)
+
 This project is based on the [Timeline Builder](https://github.com/Digital-Humanities-Toolkit/timeline-builder) from the [Digital Humanities Toolkit](https://github.com/Digital-Humanities-Toolkit) repository.
 
 ## Overview
